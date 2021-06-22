@@ -7,7 +7,9 @@ This project is about a cinema management software - which combines usefull feat
 
 **Architecture:**
 The project uses MVC architecture:
+
 Model - SQlite for java
+
 View - Java swing GUI
 
 ![MVC](https://user-images.githubusercontent.com/7150655/122886569-c029c100-d348-11eb-9409-3bb8d799cccd.png)
